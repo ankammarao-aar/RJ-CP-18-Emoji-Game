@@ -1,0 +1,22 @@
+.bg-container {
+  background-image: linear-gradient(to right bottom, #9796f0, #fbc7d4);
+  height: 100vh;
+}
+
+.list-container {
+  list-style-type: none;
+  height: 80%;
+  padding-left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 42px;
+}
+
+.won-container {
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

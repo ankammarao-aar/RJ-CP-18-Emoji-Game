@@ -1,0 +1,52 @@
+.win-card {
+  font-family: 'Roboto';
+  background-color: #ffffff33;
+  border: 1px solid #ffffff30;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.win-details-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-right: 24px;
+}
+
+.won-name {
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+.para {
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+
+.result {
+  color: #6a59ff;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
+
+.play-button {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  font-size: 8px;
+  font-weight: bold;
+  border: none;
+  border-radius: 12px;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.won-image {
+  height: 250px;
+}
